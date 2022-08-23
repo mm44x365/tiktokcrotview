@@ -1,1 +1,1 @@
-worker: python3 viewbot.py
+worker: python viewbot.py
